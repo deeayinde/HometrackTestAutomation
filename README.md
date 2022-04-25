@@ -35,7 +35,7 @@ to keep the baseUrl and also add Extent reports to generates HTML reports.
 2.	What do you think is the most interesting trend in test automation?
 Answer: The most interesting trend in test automation for me is that, It allows us to manage regeression testing efficiently because
 this days, companies delivers new feature often to an application under test and for QA to be able to cope with that volume of deployment
-we also need to have a set of test in place to do quick check so that we can deliver on time. which covers UI, API AND OTHER backend testing.
+we also need to have a set of test in place to do quick check so that we can deliver on time. which covers UI, API and Other backend testing.
 
 3.	What other test types would you include?
 Answer: Error detection test.
